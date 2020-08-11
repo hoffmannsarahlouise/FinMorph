@@ -1,0 +1,15 @@
+,Common.name,Order,Order.col,Family,Family.col,Genus,Species,Ecotype_old,Migratory,Migratory.col,Ecotype.new,Ecotype.new.col
+Squatina_dumeril,Angel,Squatiniformes,sienna4,Squatinidae,saddlebrown,Squatina,dumeril,Benthic,N,red,A,darkorange4
+Rhizoprionodon_terraenovae,Sharpnose,Carcharhiniformes,slateblue1,Carcharhinidae,royalblue3,Rhizoprionodon,terraenovae,Inshore,N,red,B,forestgreen
+Sphyrna_tiburo,Bonnet,Carcharhiniformes,slateblue1,Sphyrnidae,orchid3,Sphyrna,tiburo,Inshore,N,red,B,forestgreen
+Carcharhinus_limbatus,Blacktip,Carcharhiniformes,slateblue1,Carcharhinidae,royalblue3,Carcharhinus,limbatus,Inshore_offshore,Y,yellow,C,darkviolet
+Sphyrna_lewini,Scalloped_hammer,Carcharhiniformes,slateblue1,Sphyrnidae,orchid3,Sphyrna,lewini,Inshore_offshore,Y,yellow,C,darkviolet
+Alopias_vulpinus,Common_thresher,Lamniformes,skyblue4,Alopiidae,palegreen4,Alopias,vulpinus,Oceanic,Y,yellow,D,dodgerblue3
+Prionace_glauca,Blue,Carcharhiniformes,slateblue1,Carcharhinidae,royalblue3,Prionace,glauca,Oceanic,Y,yellow,D,dodgerblue3
+Carcharhinus_obscurus,Dusky,Carcharhiniformes,slateblue1,Carcharhinidae,royalblue3,Carcharhinus,obscurus,Inshore_offshore,Y,yellow,D,dodgerblue3
+Carcharhinus_falciformis,Silky,Carcharhiniformes,slateblue1,Carcharhinidae,royalblue3,Carcharhinus,falciformis,Inshore_offshore,Y,yellow,D,dodgerblue3
+Galeocerdo_cuvier,Tiger_,Carcharhiniformes,slateblue1,Carcharhinidae,royalblue3,Galeocerdo,cuvier,Inshore_offshore,Y,yellow,D,dodgerblue3
+Lamna_nasus,Porbeagle,Lamniformes,skyblue4,Lamnidae,red2,Lamna,nasus,Oceanic,Y,yellow,D,dodgerblue3
+Isurus_oxyrinchus,Shortfin_mako,Lamniformes,skyblue4,Lamnidae,red2,Isurus,oxyrinchus,Oceanic,Y,yellow,D,dodgerblue3
+Carcharodon_carcharias,White,Lamniformes,skyblue4,Lamnidae,red2,Carcharodon,carcharias,Oceanic,Y,yellow,D,dodgerblue3
+Sphyrna_mokarran,Great_hammer,Carcharhiniformes,slateblue1,Sphyrnidae,orchid3,Sphyrna,mokarran,Inshore_offshore,Y,yellow,D,dodgerblue3
